@@ -1,4 +1,4 @@
-# Gold Coins Problem Aiolos Solutions
+# Gold Coins Problem (Aiolos Solutions)
 
 this is a simple javascript application that solves the gold coins problem.
 
